@@ -589,7 +589,9 @@ input {
     .main {
         flex-direction: column;
     }
-
+    .bodyin{
+        padding: 0px 20px;
+    }
     .navigation-bar {
         background-color: #000000;
         min-width: 100%;
