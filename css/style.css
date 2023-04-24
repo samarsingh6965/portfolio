@@ -63,6 +63,7 @@ body {
 }
 
 .container1 {
+    padding-top: 10px;
     text-align: center;
     width: 100%;
 }
@@ -88,7 +89,7 @@ body {
 }
 
 .conatiner2 {
-    margin-top: 50px;
+    padding-top: 50px;
 }
 
 .heading2 {
@@ -109,7 +110,7 @@ body {
 }
 
 .container3 {
-    margin-top: 50px;
+    padding-top: 50px;
 }
 
 .heading3 {
@@ -357,7 +358,8 @@ body {
 }
 
 .heading8 {
-    margin-top: 100px;
+    margin-top: 50px;
+    padding-top: 50px;
     font-size: 40px;
     font-weight: 300;
 }
@@ -412,7 +414,8 @@ body {
 }
 
 .heading9 {
-    margin-top: 100px;
+    margin-top: 50px;
+    padding-top: 50px;
     font-size: 40px;
     font-weight: 300;
 }
@@ -635,6 +638,12 @@ input {
         width: 70%;
     }
     
+    .container1 {
+        padding-top: 10px;
+    }
+    .conatiner2 {
+        padding-top: 70px;
+    }
 
     .container4 {
         margin-top: 50px;
@@ -691,9 +700,12 @@ input {
     }
     
 .container8 {
-    margin-top: 100px;
+    margin-top: 60px;
     width: 100%;
     display: block;
+}
+.heading8 {
+    padding-top: 70px;
 }
 
 .c8in1 {
@@ -701,6 +713,9 @@ input {
 }
 .img11{
     height: auto;
+}
+.heading9{
+    padding-top: 70px;
 }
 .c10btn {
     margin-top: 20px;
